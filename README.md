@@ -19,7 +19,6 @@ For running our code we did it on a Jupiter notebook so one could simply run the
 We were able to reproduce results by running a V100 GPU for 20-30 minutes
 
 # Results and Analysis
-![PSNR graph (optimizng embedding function noise + latent space)](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b)
 
 <img width="924" alt="Screen Shot 2024-05-16 at 10 39 10 PM" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/46e27815-9b9f-4483-ab26-61ef3aea934b">
 <img width="1225" alt="Screen Shot 2024-05-16 at 10 36 34 PM" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/89f84c11-58fc-433b-8782-bd06db494aa1">
@@ -27,8 +26,11 @@ Clearly the results of the combined image are very similar to the results as it 
 <img width="1110" alt="Noise Optimization Results 2" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/33096eea-c4ee-4b9f-a051-40a129c9c3f9">
 <img width="586" alt="Noise Optimization Results" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/4507241c-0fac-48b4-86be-bd02bb77aac5">
 <img alt="PSNR graph (optimizng embedding function noise + latent space)" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b">
-<img alt="original dave" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b">
-<img alt="dave re-generated w: high PSNR" src="[https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b]>
+<img alt="originaldave" src="[https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/28eed2da-7163-415f-935a-14ea78e66244)">
+<img alt="dave re-generated w: high PSNR" src="[https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/28eed2da-7163-415f-935a-14ea78e66244)](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/62967d03-a577-40d8-9a13-1a010d9d0331)">
+![originaldave](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/28eed2da-7163-415f-935a-14ea78e66244)
+![dave re-generated w: high PSNR](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/62967d03-a577-40d8-9a13-1a010d9d0331)
+
 
 # Conclusion and Future Work
 I think the that one key takeaway from our re-implementation effort was that using pre-trained models and improving upon them can be really powerful and provide innovative results.  While we didn’t have to train an entirely new style and just fine-tuned on two images, it produced incredible results.   
