@@ -26,10 +26,9 @@ Clearly the results of the combined image are very similar to the results as it 
 <img width="1110" alt="Noise Optimization Results 2" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/33096eea-c4ee-4b9f-a051-40a129c9c3f9">
 <img width="586" alt="Noise Optimization Results" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/4507241c-0fac-48b4-86be-bd02bb77aac5">
 <img alt="PSNR graph (optimizng embedding function noise + latent space)" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b">
-<img alt="originaldave" src="[https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/28eed2da-7163-415f-935a-14ea78e66244)">
-<img alt="dave re-generated w: high PSNR" src="[https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/c96fdddf-8200-4c26-9a66-53c93234437b](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/28eed2da-7163-415f-935a-14ea78e66244)](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/62967d03-a577-40d8-9a13-1a010d9d0331)">
-![originaldave](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/28eed2da-7163-415f-935a-14ea78e66244)
-![dave re-generated w: high PSNR](https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/62967d03-a577-40d8-9a13-1a010d9d0331)
+<img alt="dave" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/28eed2da-7163-415f-935a-14ea78e66244">
+<img alt="psnr-dave" src="https://github.com/jacksoncamp42/Image2StyleGANPlusPlus-Re-Implementation/assets/37753577/62967d03-a577-40d8-9a13-1a010d9d0331">
+
 
 
 # Conclusion and Future Work
