@@ -34,3 +34,8 @@ Clearly the results of the combined image are very similar to the results as it 
 # Conclusion and Future Work
 I think the that one key takeaway from our re-implementation effort was that using pre-trained models and improving upon them can be really powerful and provide innovative results.  While we didn’t have to train an entirely new style and just fine-tuned on two images, it produced incredible results.   
 Another lesson that we learned is just how confusing and the amount of detail that you have to include several details to make one's results reproducible.  The paper left out several details that they would have used especially in terms of hyperparameters apart from masks that were all ones or all zeros, and what exact mask matrices they use to produce a result.  Even when they provided an image of it, it seemed very hard to reproduce the result due to the odd shape and converting that roughly into a matrix of 1 and 0 of which one to take from each image.  In other times they didn’t give us other hyperparameters and how this picture or any arbitrary picture would translate to other masks.  This made reimplementing the results a hassle and required a lot of guessing.  I think that some future directions would be seeing how changing the mask would affect the image and which masks we can use to garner different types of resutsl  
+
+# References
+https://arxiv.org/abs/1904.03189
+https://arxiv.org/abs/1911.11544
+https://oscar-guarnizo.medium.com/review-image2stylegan-embedding-an-image-into-stylegan-c7989e345271
